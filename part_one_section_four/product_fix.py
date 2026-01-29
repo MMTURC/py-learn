@@ -24,3 +24,4 @@ number_three = int(input("Please type in the third number: "))
 product = number_one * number_two * number_three
 
 print("The product is", product)
+
